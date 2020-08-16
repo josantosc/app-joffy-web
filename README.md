@@ -7,7 +7,7 @@
 
 ## :bookmark: Sobre
 
-O **Joffy** é um aplicativo criado com o intuíto de conectar alunos e professores que gostam tanto de aprender, quanto de ensinar, respectivamente.
+O [Joffy](https://joffy.netlify.app/) é um aplicativo criado com o intuíto de conectar alunos e professores que gostam tanto de aprender, quanto de ensinar, respectivamente.
 
 Essa aplicação foi desenvolvida durante o evento **Next Level Week**, oferecido pela [Rocketseat](https://www.rocketseat.com.br).
 
