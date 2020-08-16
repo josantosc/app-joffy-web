@@ -60,4 +60,4 @@ Essas são as tecnologias que foram utilizadas até o momento.
 
 <br/>
 
-Clique aqui para acessar o aplicativo funcionando [Jroffy-Mobile](https://joffy.netlify.app/)
+Clique aqui para acessar o aplicativo funcionando [Joffy](https://joffy.netlify.app/)
