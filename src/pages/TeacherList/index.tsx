@@ -45,14 +45,10 @@ function TeacherList(){
                     option = {[
                         {value:'Data Science', label:'Data Science'},
                         {value:'Machine Learning', label:'Machine Learning'},
-<<<<<<< HEAD
                         {value:'Big Data', label:'Big Data'},
                         {value:'Matemática', label:'Matemática'},
                         {value:'BI', label:'BI'}
-=======
-                        {value:'Matemática', label:'Matemática'},
-                        {value:'Português', label:'Português'}
->>>>>>> 22190c6962ba22d162362f2aa5f7997a16b934a8
+
                     ]}
                 
                 />
