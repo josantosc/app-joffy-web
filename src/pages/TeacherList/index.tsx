@@ -35,7 +35,7 @@ function TeacherList(){
     return (
     
         <div id="page-teacher-list" className="container">
-            <PageHeader title="Estes são os proffys disponíveis.">
+            <PageHeader title="Estes são os professores disponíveis.">
              <form id="search-teachers" onSubmit={searchTeachers}>
              <Select 
                     name="subject" 
@@ -45,7 +45,9 @@ function TeacherList(){
                     option = {[
                         {value:'Data Science', label:'Data Science'},
                         {value:'Machine Learning', label:'Machine Learning'},
-                        {value:'Matemática', label:'Matemática'}
+                        {value:'Big Data', label:'Big Data'},
+                        {value:'Matemática', label:'Matemática'},
+                        {value:'BI', label:'BI'}
                     ]}
                 
                 />

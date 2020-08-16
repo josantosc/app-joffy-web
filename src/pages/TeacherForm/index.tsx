@@ -121,7 +121,11 @@ function TeacherForm(){
                     option = {[
                         {value:'Data Science', label:'Data Science'},
                         {value:'Machine Learning', label:'Machine Learning'},
-                        {value:'Matemática', label:'Matemática'}
+                        {value:'Big Data', label:'Big Data'},
+                        {value:'Matemática', label:'Matemática'},
+                        {value:'BI', label:'BI'}
+                        
+                        
                     ]}
                 
                 />

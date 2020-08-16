@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import backIcon from '../../assest/images/icons/back.svg'
-import logoImg from '../../assest/images/logo.svg'
+import logoImg from '../../assest/images/logo.png'
 import './styles.css'
 
 //Adiciando propriedades

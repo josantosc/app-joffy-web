@@ -1,6 +1,6 @@
 import React, { useState, useEffect} from 'react';
 import {Link} from 'react-router-dom'
-import logoImg from '../../assest/images/logo.svg';
+import logoImg from '../../assest/images/logo.png';
 import landingImg from '../../assest/images/landing.svg';
 import studyIcon from '../../assest/images/icons/study.svg';
 import giveClassesIcon from '../../assest/images/icons/give-classes.svg';
