@@ -13,7 +13,7 @@
 
 ## :bookmark: Sobre
 
-O **Proffy** é um aplicativo criado com o intuíto de conectar alunos e professores que gostam tanto de aprender, quanto de ensinar, respectivamente.
+O **Joffy** é um aplicativo criado com o intuíto de conectar alunos e professores que gostam tanto de aprender, quanto de ensinar, respectivamente.
 
 Essa aplicação foi desenvolvida durante o evento **Next Level Week**, oferecido pela [Rocketseat](https://www.rocketseat.com.br).
 
@@ -60,4 +60,4 @@ Essas são as tecnologias que foram utilizadas até o momento.
 
 <br/>
 
-Devido a alguns problemas com o git, tive que colocar o código fonte do app mobile neste repositório [Proffy-Mobile](https://github.com/gustavohrgomes/Proffy-Mobile). Futuramente irei migrando o mesmo para este repositório.
+Clique aqui para acessar o aplicativo funcionando [Jroffy-Mobile](https://joffy.netlify.app/)
