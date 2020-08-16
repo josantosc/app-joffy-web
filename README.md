@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-7519C1">
-  </a>
-</p>
-
 ## :pushpin: Índice
 
 - Sobre
