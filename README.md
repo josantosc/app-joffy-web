@@ -41,23 +41,4 @@ Essas são as tecnologias que foram utilizadas até o momento.
   - [KnexJS](http://knexjs.org/)
   - [PostgreSQL](https://www.postgresql.org/)
 
-## :computer: Web Screenshots
-
-<div width="" style="display: flex; align-items: 'center'; justify-content: space-evenly">
-  <img src="https://github.com/gustavohrgomes/Proffy/blob/master/.github/web-landing.png" width="400px">
-  <img src="https://github.com/gustavohrgomes/Proffy/blob/master/.github/web-list.png"  width="400px">
-</div>
-
-<br/>
-
-## :iphone: Mobile Screenshots
-
-<div width="" style="display: flex; align-items: 'center'; justify-content: space-evenly">
-  <img src="./.github/Home.png" width="200">
-  <img src="./.github/study.png" width="200px">
-  <img src="./.github/favorites.png"  width="200">
-</div>
-
-<br/>
-
 Clique aqui ([Joffy](https://joffy.netlify.app/)) para acessar o aplicativo funcionando 
